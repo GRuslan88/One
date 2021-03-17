@@ -3,7 +3,7 @@ from technopark import Technopark
 from ozon import Ozon
 
 handler_list = (
-    M_video,
+    Mvideo,
     Technopark,
     Ozon,
 )
