@@ -1,6 +1,6 @@
-from mvideo_pars import M_video
-from technopark_pars import Technopark
-from ozon_pars import Ozon
+from mvideo import M_video
+from technopark import Technopark
+from ozon import Ozon
 
 handler_list = (
     M_video,
