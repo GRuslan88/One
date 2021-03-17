@@ -5,7 +5,7 @@ from parser_main import Scraping_Base
 URLMVIDEO = 'https://www.mvideo.ru/products/igrovaya-konsol-playstation-4-1tb-gts-hzd-spiderm-ps-3mes-40074231?cityId=CityCZ_1024'
 
 
-class M_video(Scraping_Base):
+class Mvideo(Scraping_Base):
     """класс для парсинга сайта Мвидео"""
     source_url = URLMVIDEO
 
