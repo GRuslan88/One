@@ -1,4 +1,4 @@
-from mvideo import M_video
+from mvideo import Mvideo
 from technopark import Technopark
 from ozon import Ozon
 
